@@ -1,0 +1,140 @@
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day6\CollectionSolution\EStoreWebApp\bin\Debug\net8.0\appsettings.Development.json
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day6\CollectionSolution\EStoreWebApp\bin\Debug\net8.0\appsettings.json
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day6\CollectionSolution\EStoreWebApp\bin\Debug\net8.0\EStoreWebApp.staticwebassets.runtime.json
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day6\CollectionSolution\EStoreWebApp\bin\Debug\net8.0\EStoreWebApp.exe
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day6\CollectionSolution\EStoreWebApp\bin\Debug\net8.0\EStoreWebApp.deps.json
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day6\CollectionSolution\EStoreWebApp\bin\Debug\net8.0\EStoreWebApp.runtimeconfig.json
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day6\CollectionSolution\EStoreWebApp\bin\Debug\net8.0\EStoreWebApp.dll
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day6\CollectionSolution\EStoreWebApp\bin\Debug\net8.0\EStoreWebApp.pdb
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day6\CollectionSolution\EStoreWebApp\obj\Debug\net8.0\EStoreWebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day6\CollectionSolution\EStoreWebApp\obj\Debug\net8.0\EStoreWebApp.AssemblyInfoInputs.cache
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day6\CollectionSolution\EStoreWebApp\obj\Debug\net8.0\EStoreWebApp.AssemblyInfo.cs
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day6\CollectionSolution\EStoreWebApp\obj\Debug\net8.0\EStoreWebApp.csproj.CoreCompileInputs.cache
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day6\CollectionSolution\EStoreWebApp\obj\Debug\net8.0\EStoreWebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day6\CollectionSolution\EStoreWebApp\obj\Debug\net8.0\EStoreWebApp.RazorAssemblyInfo.cache
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day6\CollectionSolution\EStoreWebApp\obj\Debug\net8.0\EStoreWebApp.RazorAssemblyInfo.cs
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day6\CollectionSolution\EStoreWebApp\obj\Debug\net8.0\staticwebassets.build.json
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day6\CollectionSolution\EStoreWebApp\obj\Debug\net8.0\staticwebassets.development.json
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day6\CollectionSolution\EStoreWebApp\obj\Debug\net8.0\staticwebassets\msbuild.EStoreWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day6\CollectionSolution\EStoreWebApp\obj\Debug\net8.0\staticwebassets\msbuild.build.EStoreWebApp.props
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day6\CollectionSolution\EStoreWebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EStoreWebApp.props
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day6\CollectionSolution\EStoreWebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EStoreWebApp.props
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day6\CollectionSolution\EStoreWebApp\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day6\CollectionSolution\EStoreWebApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day6\CollectionSolution\EStoreWebApp\obj\Debug\net8.0\scopedcss\bundle\EStoreWebApp.styles.css
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day6\CollectionSolution\EStoreWebApp\obj\Debug\net8.0\scopedcss\projectbundle\EStoreWebApp.bundle.scp.css
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day6\CollectionSolution\EStoreWebApp\obj\Debug\net8.0\EStoreWebApp.dll
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day6\CollectionSolution\EStoreWebApp\obj\Debug\net8.0\refint\EStoreWebApp.dll
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day6\CollectionSolution\EStoreWebApp\obj\Debug\net8.0\EStoreWebApp.pdb
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day6\CollectionSolution\EStoreWebApp\obj\Debug\net8.0\EStoreWebApp.genruntimeconfig.cache
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day6\CollectionSolution\EStoreWebApp\obj\Debug\net8.0\ref\EStoreWebApp.dll
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day9\EStoreWebApp\obj\Debug\net8.0\EStoreWebApp.csproj.AssemblyReference.cache
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day9\EStoreWebApp\obj\Debug\net8.0\EStoreWebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day9\EStoreWebApp\obj\Debug\net8.0\EStoreWebApp.AssemblyInfoInputs.cache
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day9\EStoreWebApp\obj\Debug\net8.0\EStoreWebApp.AssemblyInfo.cs
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day9\EStoreWebApp\obj\Debug\net8.0\EStoreWebApp.csproj.CoreCompileInputs.cache
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day9\EStoreWebApp\obj\Debug\net8.0\EStoreWebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day9\EStoreWebApp\obj\Debug\net8.0\EStoreWebApp.RazorAssemblyInfo.cache
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day9\EStoreWebApp\obj\Debug\net8.0\EStoreWebApp.RazorAssemblyInfo.cs
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day9\EStoreWebApp\obj\Debug\net8.0\EStoreWebApp.dll
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day9\EStoreWebApp\obj\Debug\net8.0\refint\EStoreWebApp.dll
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day9\EStoreWebApp\obj\Debug\net8.0\EStoreWebApp.pdb
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day9\EStoreWebApp\bin\Debug\net8.0\appsettings.Development.json
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day9\EStoreWebApp\bin\Debug\net8.0\appsettings.json
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day9\EStoreWebApp\bin\Debug\net8.0\EStoreWebApp.staticwebassets.runtime.json
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day9\EStoreWebApp\bin\Debug\net8.0\EStoreWebApp.exe
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day9\EStoreWebApp\bin\Debug\net8.0\EStoreWebApp.deps.json
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day9\EStoreWebApp\bin\Debug\net8.0\EStoreWebApp.runtimeconfig.json
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day9\EStoreWebApp\bin\Debug\net8.0\EStoreWebApp.dll
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day9\EStoreWebApp\bin\Debug\net8.0\EStoreWebApp.pdb
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day9\EStoreWebApp\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day9\EStoreWebApp\bin\Debug\net8.0\Google.Protobuf.dll
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day9\EStoreWebApp\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day9\EStoreWebApp\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day9\EStoreWebApp\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day9\EStoreWebApp\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day9\EStoreWebApp\bin\Debug\net8.0\MySql.Data.dll
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day9\EStoreWebApp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day9\EStoreWebApp\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day9\EStoreWebApp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day9\EStoreWebApp\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day9\EStoreWebApp\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day9\EStoreWebApp\bin\Debug\net8.0\ZstdSharp.dll
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day9\EStoreWebApp\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day9\EStoreWebApp\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day9\EStoreWebApp\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day9\EStoreWebApp\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day9\EStoreWebApp\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day9\EStoreWebApp\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day9\EStoreWebApp\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day9\EStoreWebApp\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day9\EStoreWebApp\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day9\EStoreWebApp\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day9\EStoreWebApp\obj\Debug\net8.0\staticwebassets.build.json
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day9\EStoreWebApp\obj\Debug\net8.0\staticwebassets.development.json
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day9\EStoreWebApp\obj\Debug\net8.0\staticwebassets\msbuild.EStoreWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day9\EStoreWebApp\obj\Debug\net8.0\staticwebassets\msbuild.build.EStoreWebApp.props
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day9\EStoreWebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EStoreWebApp.props
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day9\EStoreWebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EStoreWebApp.props
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day9\EStoreWebApp\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day9\EStoreWebApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day9\EStoreWebApp\obj\Debug\net8.0\scopedcss\bundle\EStoreWebApp.styles.css
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day9\EStoreWebApp\obj\Debug\net8.0\scopedcss\projectbundle\EStoreWebApp.bundle.scp.css
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day9\EStoreWebApp\obj\Debug\net8.0\EStoreWebApp.csproj.CopyComplete
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day9\EStoreWebApp\obj\Debug\net8.0\EStoreWebApp.genruntimeconfig.cache
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day9\EStoreWebApp\obj\Debug\net8.0\ref\EStoreWebApp.dll
+C:\Users\Admin\Desktop\Class Work\C#\Day9\Day9\EStoreWebApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Admin\Desktop\Class Work\C#\Day9\Day9\EStoreWebApp\bin\Debug\net8.0\appsettings.json
+C:\Users\Admin\Desktop\Class Work\C#\Day9\Day9\EStoreWebApp\bin\Debug\net8.0\EStoreWebApp.staticwebassets.runtime.json
+C:\Users\Admin\Desktop\Class Work\C#\Day9\Day9\EStoreWebApp\bin\Debug\net8.0\EStoreWebApp.exe
+C:\Users\Admin\Desktop\Class Work\C#\Day9\Day9\EStoreWebApp\bin\Debug\net8.0\EStoreWebApp.deps.json
+C:\Users\Admin\Desktop\Class Work\C#\Day9\Day9\EStoreWebApp\bin\Debug\net8.0\EStoreWebApp.runtimeconfig.json
+C:\Users\Admin\Desktop\Class Work\C#\Day9\Day9\EStoreWebApp\bin\Debug\net8.0\EStoreWebApp.dll
+C:\Users\Admin\Desktop\Class Work\C#\Day9\Day9\EStoreWebApp\bin\Debug\net8.0\EStoreWebApp.pdb
+C:\Users\Admin\Desktop\Class Work\C#\Day9\Day9\EStoreWebApp\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\Admin\Desktop\Class Work\C#\Day9\Day9\EStoreWebApp\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Admin\Desktop\Class Work\C#\Day9\Day9\EStoreWebApp\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\Admin\Desktop\Class Work\C#\Day9\Day9\EStoreWebApp\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Admin\Desktop\Class Work\C#\Day9\Day9\EStoreWebApp\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\Admin\Desktop\Class Work\C#\Day9\Day9\EStoreWebApp\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Desktop\Class Work\C#\Day9\Day9\EStoreWebApp\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\Admin\Desktop\Class Work\C#\Day9\Day9\EStoreWebApp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Desktop\Class Work\C#\Day9\Day9\EStoreWebApp\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Admin\Desktop\Class Work\C#\Day9\Day9\EStoreWebApp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\Class Work\C#\Day9\Day9\EStoreWebApp\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Admin\Desktop\Class Work\C#\Day9\Day9\EStoreWebApp\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Admin\Desktop\Class Work\C#\Day9\Day9\EStoreWebApp\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Admin\Desktop\Class Work\C#\Day9\Day9\EStoreWebApp\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Desktop\Class Work\C#\Day9\Day9\EStoreWebApp\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Admin\Desktop\Class Work\C#\Day9\Day9\EStoreWebApp\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Admin\Desktop\Class Work\C#\Day9\Day9\EStoreWebApp\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Admin\Desktop\Class Work\C#\Day9\Day9\EStoreWebApp\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Admin\Desktop\Class Work\C#\Day9\Day9\EStoreWebApp\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Admin\Desktop\Class Work\C#\Day9\Day9\EStoreWebApp\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Admin\Desktop\Class Work\C#\Day9\Day9\EStoreWebApp\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Admin\Desktop\Class Work\C#\Day9\Day9\EStoreWebApp\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\Class Work\C#\Day9\Day9\EStoreWebApp\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Admin\Desktop\Class Work\C#\Day9\Day9\EStoreWebApp\obj\Debug\net8.0\EStoreWebApp.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Class Work\C#\Day9\Day9\EStoreWebApp\obj\Debug\net8.0\EStoreWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Class Work\C#\Day9\Day9\EStoreWebApp\obj\Debug\net8.0\EStoreWebApp.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Class Work\C#\Day9\Day9\EStoreWebApp\obj\Debug\net8.0\EStoreWebApp.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Class Work\C#\Day9\Day9\EStoreWebApp\obj\Debug\net8.0\EStoreWebApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Class Work\C#\Day9\Day9\EStoreWebApp\obj\Debug\net8.0\EStoreWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\Class Work\C#\Day9\Day9\EStoreWebApp\obj\Debug\net8.0\EStoreWebApp.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\Class Work\C#\Day9\Day9\EStoreWebApp\obj\Debug\net8.0\EStoreWebApp.RazorAssemblyInfo.cs
+C:\Users\Admin\Desktop\Class Work\C#\Day9\Day9\EStoreWebApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Admin\Desktop\Class Work\C#\Day9\Day9\EStoreWebApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Admin\Desktop\Class Work\C#\Day9\Day9\EStoreWebApp\obj\Debug\net8.0\staticwebassets\msbuild.EStoreWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Desktop\Class Work\C#\Day9\Day9\EStoreWebApp\obj\Debug\net8.0\staticwebassets\msbuild.build.EStoreWebApp.props
+C:\Users\Admin\Desktop\Class Work\C#\Day9\Day9\EStoreWebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EStoreWebApp.props
+C:\Users\Admin\Desktop\Class Work\C#\Day9\Day9\EStoreWebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EStoreWebApp.props
+C:\Users\Admin\Desktop\Class Work\C#\Day9\Day9\EStoreWebApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Admin\Desktop\Class Work\C#\Day9\Day9\EStoreWebApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Admin\Desktop\Class Work\C#\Day9\Day9\EStoreWebApp\obj\Debug\net8.0\scopedcss\bundle\EStoreWebApp.styles.css
+C:\Users\Admin\Desktop\Class Work\C#\Day9\Day9\EStoreWebApp\obj\Debug\net8.0\scopedcss\projectbundle\EStoreWebApp.bundle.scp.css
+C:\Users\Admin\Desktop\Class Work\C#\Day9\Day9\EStoreWebApp\obj\Debug\net8.0\EStoreWebApp.csproj.CopyComplete
+C:\Users\Admin\Desktop\Class Work\C#\Day9\Day9\EStoreWebApp\obj\Debug\net8.0\EStoreWebApp.dll
+C:\Users\Admin\Desktop\Class Work\C#\Day9\Day9\EStoreWebApp\obj\Debug\net8.0\refint\EStoreWebApp.dll
+C:\Users\Admin\Desktop\Class Work\C#\Day9\Day9\EStoreWebApp\obj\Debug\net8.0\EStoreWebApp.pdb
+C:\Users\Admin\Desktop\Class Work\C#\Day9\Day9\EStoreWebApp\obj\Debug\net8.0\EStoreWebApp.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Class Work\C#\Day9\Day9\EStoreWebApp\obj\Debug\net8.0\ref\EStoreWebApp.dll
