@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C4Bpm2NP7vT13KHCEOiVQ/fN+hSXgj0Zg2KljQGHNncqiJk3Jnhxk11ilZzBXvWGgS6QGnTEB2pbBpSyajnNLw==",
+  "dgSpecHash": "/UUoxLN9d/+ipF5CIYo977XVNKA8sMFGTKn5gmGjHIFKr7ZLLy1Ne2yHIqgAmox22Juv4gCtgZs2wF5OkiPAKw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Desktop\\Class Work\\C#\\Day9\\Day9\\EStoreWebApp\\EStoreWebApp.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\Git_Uploads\\C#\\EStoreWebApp_With_DBConnection\\EStoreWebApp\\EStoreWebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\google.protobuf\\3.21.9\\google.protobuf.3.21.9.nupkg.sha512",

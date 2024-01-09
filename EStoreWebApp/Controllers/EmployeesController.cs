@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using EStoreWebApp.Models;
 using   HRAPP.Services;
 using HRAPP.Entities;
+using System.Data;
 namespace EStoreWebApp.Controllers;
 public class EmployeesController : Controller
 {
@@ -41,6 +42,16 @@ public class EmployeesController : Controller
         return View(emp);
     }
 
+     public IActionResult Register(){
+        return view();
+    }
+
+    [HttpPost]
+    public IActionResult Register(Employee emp){
+        _svc.Insert(emp);
+        return RedirectToAction("Index","Employees",null);
+    }
+
      public IActionResult Edit(int id){
          List<Employee> employees=_svc.GetAll();
          var e= employees.Find((emp)=>emp.Id==id);    
@@ -50,7 +61,7 @@ public class EmployeesController : Controller
 
 
     [HttpPost]
-    public IActionResult Edit(Employee emp){   
+    public IActionResult Edit(IFormCollection emp){   
       /*  Console.WriteLine(emp.Id+ " " + emp.Name);
         if (emp != null && ModelState.IsValid) { 
 
@@ -61,6 +72,7 @@ public class EmployeesController : Controller
         } 
         else      
         */
+        emp["Id"].ToString();
         return View();
     }
 }

@@ -1790,11 +1790,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Class Work\\C#\\Day9\\Day9\\EStoreWebApp\\EStoreWebApp.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Git_Uploads\\C#\\EStoreWebApp_With_DBConnection\\EStoreWebApp\\EStoreWebApp.csproj",
       "projectName": "EStoreWebApp",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\Class Work\\C#\\Day9\\Day9\\EStoreWebApp\\EStoreWebApp.csproj",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\Git_Uploads\\C#\\EStoreWebApp_With_DBConnection\\EStoreWebApp\\EStoreWebApp.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\Class Work\\C#\\Day9\\Day9\\EStoreWebApp\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\Git_Uploads\\C#\\EStoreWebApp_With_DBConnection\\EStoreWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

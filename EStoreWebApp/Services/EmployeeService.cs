@@ -33,7 +33,13 @@ public class EmployeeService:IEmployeeService{
       Console.WriteLine("fetching employee using DBMangager");
       return emp;
     }
-    public void Insert(Employee emp){}
+    public void Insert(Employee emp){
+      List<Employee> employees=new List<Employee>();
+      RepositoryManager mgr=new RepositoryManager();
+      employees=mgr.DeSerialize(fileName);
+      employees.Add(emp);
+      mgr.Serialize(employees,fileName);
+    }
      public void Update(Employee emp){}
      public void Delete(int id){
 
